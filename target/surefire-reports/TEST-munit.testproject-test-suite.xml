@@ -1,9 +1,9 @@
-<testsuite name="testproject-test-suite" time="1.155" failures="0" errors="0" skipped="0" tests="3">
+<testsuite name="testproject-test-suite" time="1.457" failures="0" errors="0" skipped="0" tests="3">
   <properties>
     <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property key="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_111\jre\bin"/>
     <property key="java.vm.version" value="25.111-b14"/>
-    <property key="maven.multiModuleProjectDirectory" value="C:\Workspaces-AnypointStudio\online\testproject"/>
+    <property key="maven.multiModuleProjectDirectory" value="C:\Workspaces-AnypointStudio\online\srilathatestproject"/>
     <property key="java.vm.vendor" value="Oracle Corporation"/>
     <property key="java.vendor.url" value="http://java.oracle.com/"/>
     <property key="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property key="sun.java.launcher" value="SUN_STANDARD"/>
     <property key="sun.os.patch.level" value=""/>
     <property key="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property key="user.dir" value="C:\Workspaces-AnypointStudio\online\testproject"/>
+    <property key="user.dir" value="C:\Workspaces-AnypointStudio\online\srilathatestproject"/>
     <property key="java.runtime.version" value="1.8.0_111-b14"/>
     <property key="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property key="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_111\jre\lib\endorsed"/>
@@ -59,9 +59,9 @@
     <property key="sun.desktop" value="windows"/>
     <property key="sun.cpu.isalist" value="amd64"/>
     <property key="mule.testingMode" value="true"/>
-    <property key="mule.working.dir" value="C:\Workspaces-AnypointStudio\online\testproject\target\.mule"/>
+    <property key="mule.working.dir" value="C:\Workspaces-AnypointStudio\online\srilathatestproject\target\.mule"/>
   </properties>
-  <testcase time="0.022" name="testcase02" classname="testproject-test-suite"/>
-  <testcase time="0.2" name="verificationOfPayloadTC01" classname="testproject-test-suite"/>
-  <testcase time="0.038" name="testcase03-flowvar" classname="testproject-test-suite"/>
+  <testcase time="0.032" name="testcase02" classname="testproject-test-suite"/>
+  <testcase time="0.297" name="verificationOfPayloadTC01" classname="testproject-test-suite"/>
+  <testcase time="0.078" name="testcase03-flowvar" classname="testproject-test-suite"/>
 </testsuite>

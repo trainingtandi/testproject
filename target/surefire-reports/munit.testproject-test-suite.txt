@@ -3,5 +3,5 @@ SUCCESS - Test verificationOfPayloadTC01 finished Successfully.
 SUCCESS - Test testcase03-flowvar finished Successfully.
 
 =============================================================================
-Tests run: 3 - Failures: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 1.155 sec
+Tests run: 3 - Failures: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 1.457 sec
 =============================================================================
